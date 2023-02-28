@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raulg0906
-- 👀 I’m interested in starting in a Junior Developer position
-- 🌱 I’m currently learning Javascript/React
+- 👀 I’m interested in a Software Developer position
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raulgonzalez1770@gmail.com
 
